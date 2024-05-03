@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Community Clean-Up",
+    "description": "Join us for a community clean-up day to help keep our parks and streets clean. Volunteers are welcome!",
+    "date": "2024-03-15",
+    "time": "09:00",
+    "location": "Central Park"
+  },
+  {
+    "id": 2,
+    "title": "Tech Conference 2024",
+    "description": "The annual tech conference brings together industry leaders and professionals to discuss the latest in technology.",
+    "date": "2024-04-20",
+    "time": "10:00",
+    "location": "Convention Center, Downtown"
+  },
+  {
+    "id": 3,
+    "title": "Local Farmers Market",
+    "description": "Explore the best of local produce, homemade goods, and artisan crafts at our monthly farmers market.",
+    "date": "2024-05-06",
+    "time": "08:00",
+    "location": "Market Square"
+  }
+]
